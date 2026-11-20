@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.toothifruti.emicorrections.mixin",
+  "plugin": "com.toothifruti.emicorrections.EmiCorrectionsMixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "jemi.JemiPlaceableMixin",
+    "jemi.JemiRecipeSlotBuilderMixin",
+    "jemi.JemiScrollBoxWidgetMixin",
+    "jemi.JemiScrollGridWidgetMixin",
+    "jemi.JemiTextWidgetMixin"
+  ]
+}

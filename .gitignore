@@ -1,0 +1,46 @@
+# eclipse
+bin/
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+eclipse/
+
+# idea / vscode
+out/
+*.ipr
+*.iws
+*.iml
+.idea/
+.vscode/
+
+# gradle
+build/
+.gradle/
+mcmodsrepo/
+
+# forge / minecraft runs
+run/
+run-data/
+src/generated/
+
+# logs e temporários
+*.log
+*.bak
+*~
+*.tmp
+*.swp
+
+# jars de terceiros usados só para compilar (ver libs/README.md)
+libs/*.jar
+
+# fonte editável do ícone (Krita); o PNG versionado é icon.png / logo.png
+*.kra
+
+# ambiente local (não usado pelo mod; prevenção)
+.env
+.env.*
+
+# Files from Forge MDK
+forge*changelog.txt
