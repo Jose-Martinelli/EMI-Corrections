@@ -104,5 +104,5 @@ e confira se as linhas `Exception thrown adding adding JEI recipe` sumiram.
 
 ## Licença
 
-O metadado do mod declara **MIT** (`mod_license` em `gradle.properties` / `mods.toml`).
-O arquivo `LICENSE.txt` na raiz ainda é o texto do Forge MDK (LGPL) — ver pendência de alinhamento no repositório.
+Este projeto está sob a **[GNU Lesser General Public License v3.0](LICENSE.txt)** (`LGPL-3.0`).
+O valor aparece em `gradle.properties` (`mod_license`) e no `mods.toml` do jar.
